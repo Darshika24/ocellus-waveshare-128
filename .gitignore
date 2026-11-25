@@ -1,0 +1,14 @@
+.pio/
+CLAUDE.md
+TODO.md
+NEXT_SESSION.md
+*.swp
+.DS_Store
+__pycache__/
+references/
+# local research/reference notes — kept out of the public repo
+docs/
+build/
+.superpowers/
+tmp/
+.pio/
